@@ -30,7 +30,7 @@ Unlike a traditional Flappy Bird clone, MoonBird-AI introduces a lunar environme
 
 ### Gameplay
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/gameplay.gif)
 
 ---
 
