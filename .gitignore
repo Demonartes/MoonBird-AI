@@ -1,25 +1,25 @@
 # Visual Studio
 .vs/
-.vscode/
+*.VC.db
+*.VC.opendb
 
+# Build folders
 Debug/
 Release/
 x64/
 x86/
 
+# Build files
 *.obj
-*.exe
-*.ilk
 *.pdb
+*.ilk
 *.idb
+*.exe
+
+# Temporary files
 *.log
+*.tmp
 
-*.VC.db
-*.VC.opendb
-
-ipch/
-
+# User settings
 *.user
 *.suo
-
-qtable.txt
