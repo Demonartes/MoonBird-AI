@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+.vscode/
+
+Debug/
+Release/
+x64/
+x86/
+
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.log
+
+*.VC.db
+*.VC.opendb
+
+ipch/
+
+*.user
+*.suo
+
+qtable.txt
