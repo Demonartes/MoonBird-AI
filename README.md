@@ -20,6 +20,26 @@ Unlike a traditional Flappy Bird clone, MoonBird-AI introduces a lunar environme
 
 ---
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+---
+
+### Gameplay
+
+![Gameplay](screenshots/gameplay.png)
+
+---
+
+### Game Over
+
+![Game Over](screenshots/gameover.png)
+
+---
+
 ## 🛠 Technologies
 
 - C++
